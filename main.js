@@ -1,6 +1,6 @@
 // Add JS here
 const api = {
-    key: "742a90833ec4e754ee08bbd9211c27c7",
+    key: "API_KEY",
     base: "https://api.openweathermap.org/data/2.5/"
   }
   
